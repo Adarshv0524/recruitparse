@@ -1,6 +1,6 @@
-# RecruitAI: Smart Recruitment Email Assistant
+# RecruitParse: Smart Recruitment Email Assistant
 
-RecruitAI is a Flutter-based mobile application designed to automatically sift through your inbox, identify recruitment-related emails, and extract key information into a structured, easy-to-view format. Stop manually tracking job opportunities and let AI do the heavy lifting for you.
+RecruitParse is a Flutter-based mobile application designed to automatically sift through your inbox, identify recruitment-related emails, and extract key information into a structured, easy-to-view format. Stop manually tracking job opportunities and let AI do the heavy lifting for you.
 
 ## The Problem
 
